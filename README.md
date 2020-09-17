@@ -1,6 +1,6 @@
 ### Hi there, I'm Utkarsh - aka [UtkarshShankar12] 👋
 
-## I'm a Studnet , Gamer and Coder 
+## I'm a Student  , Gamer and Coder 
 
 - 🔭 I’m currently working on a [C#]!
 - 🥅 2020 Goals: Learn C# and C++ language
