@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to code and play games
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E38Fn3X9KhPLb)
+[<img src="https://open.spotify.com/playlist/37i9dQZF1E38Fn3X9KhPLb" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E38Fn3X9KhPLb)
 
 ### Connect with me:
 [<img align="left" alt="utkarsh___shankar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
