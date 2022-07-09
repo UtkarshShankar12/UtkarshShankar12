@@ -1,10 +1,7 @@
 ### Hi there, I'm Utkarsh - aka [UtkarshShankar12] 👋
 
-## I'm a Student  , Gamer and Coder 
-
-- 🔭 I’m currently working on a [C#]!
-- 🥅 2020 Goals: Learn C# and C++ language
-- ⚡ Fun fact: I love to code and play games
+- 🔭 I’m currently working on a [Java]!
+- 🥅 2022 Goals: Django and React 
 
 ### Spotify Playing 🎧
 [<img src="https://camo.githubusercontent.com/1ee78d6669a4bbf5afad8cb8f0d83355d8dd7dc64776d709db4069fea5cc60d6/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify" style="max-width:100%;">" ](https://open.spotify.com/playlist/7F8AvhADRYf8ZGfmR0Nfz8)
