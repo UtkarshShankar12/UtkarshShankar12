@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshshankar12" alt="utkarshshankar12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shankarutk6501" target="blank"><img src="https://img.shields.io/twitter/follow/shankarutk6501?logo=twitter&style=for-the-badge" alt="shankarutk6501" /></a> </p>
-
 - 🔭 I’m currently working on **JAVA**
 
 - 🌱 I’m currently learning **JAVA+DSA**
